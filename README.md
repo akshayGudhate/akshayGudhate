@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Networking**
 
-- 📝 I regularly write articles on [https://medium.com/@akshaygudhate](https://medium.com/@akshaygudhate)
+- 📝 I write articles on [https://medium.com/@akshaygudhate](https://medium.com/@akshaygudhate)
 
 - 📫 How to reach me **akshay.gudhate@gmail.com**
 
