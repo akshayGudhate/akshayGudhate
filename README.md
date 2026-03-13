@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="bash" width="40" height="40"/>
 </a>
 
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
@@ -70,7 +70,7 @@
 </a>
 
 <a href="https://json.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="json" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
 </a>
 
 <a href="https://grpc.io" target="_blank" rel="noreferrer">
@@ -82,7 +82,7 @@
 </a>
 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="40" height="40"/>
 </a>
 
 <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
@@ -90,7 +90,7 @@
 </a>
 
 <a href="https://nats.io" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/natsio/natsio-ar21.svg" alt="nats" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/natsio/natsio-icon.svg" alt="nats" width="40" height="40"/>
 </a>
 
 <a href="https://postman.com" target="_blank" rel="noreferrer">
