@@ -58,7 +58,7 @@ Primary architect of a real-time messaging and workflow automation platform hand
 **Languages:** Golang, Node.js, JavaScript, SQL  
 **Messaging:** NATS, Kafka, RabbitMQ  
 **Databases:** PostgreSQL, MongoDB, Redis  
-**Infrastructure:** AWS, Docker, Linux, Nginx  
+**Infrastructure:** AWS, Podman, Docker, Linux, Nginx  
 **Protocols:** gRPC, REST  
 
 ---
