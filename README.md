@@ -72,6 +72,7 @@ I write about backend engineering and system design:
 
 ## 🤝 Connect
 
+- 🌐 Portfolio: https://akshaygudhate.github.io
 - Email: akshay.gudhate@gmail.com  
 - LinkedIn: https://linkedin.com/in/akshay-gudhate  
 - Twitter: https://twitter.com/akshay_gudhate  
